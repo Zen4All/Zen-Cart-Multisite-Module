@@ -2,7 +2,7 @@
 /**
  * Multisite for Zen-Cart
  * 
- * This file should be in includes/admin/multisite.php
+ * This file should be in YOUR_ADMIN/multisite.php
  * 
  */
   require('includes/application_top.php');
