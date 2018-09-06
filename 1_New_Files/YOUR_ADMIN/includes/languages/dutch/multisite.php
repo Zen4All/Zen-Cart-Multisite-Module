@@ -14,5 +14,6 @@ define('MULTISITE_BUTTON_ADD_ALL','Aan alles toevoegen');
 define('MULTISITE_BUTTON_REMOVE_ALL','Uit alles verwijderen');
 define('MULTISITE_CATEGORIE_REMINDER_TEXT','(vergeet niet om op te slaan)');
 define('MULTISITE_CATEGORIE_ALL_TEXT','Alles');
-define('MULTISITE_CATEGORIE','Categorieën');
-define('MULTISITE_SITE','sites');
+define('TABLE_HEADING_MULTISITE_CATEGORIE','Categorieën');
+define('TABLE_HEADING_MULTISITE_SITE','sites');
+define('TABLE_HEADING_ACTION','actie');

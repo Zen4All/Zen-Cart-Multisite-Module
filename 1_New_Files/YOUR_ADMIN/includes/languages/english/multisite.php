@@ -14,5 +14,6 @@ define('MULTISITE_BUTTON_ADD_ALL','Add to all');
 define('MULTISITE_BUTTON_REMOVE_ALL','Remove from all');
 define('MULTISITE_CATEGORIE_REMINDER_TEXT','(don\'t forget to save)');
 define('MULTISITE_CATEGORIE_ALL_TEXT','All');
-define('MULTISITE_CATEGORIE','Categories');
-define('MULTISITE_SITE','sites');
+define('TABLE_HEADING_MULTISITE_CATEGORIE','Categories');
+define('TABLE_HEADING_MULTISITE_SITE','sites');
+define('TABLE_HEADING_ACTION','action');
